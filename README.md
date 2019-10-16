@@ -9,4 +9,4 @@ Let's build 1 App everyday. It doesn't matter how simple or silly is the app. Yo
 | Date | Project Name | link | Preview | Screens | Estimation | Status |
 | ------ | ------ | ------ | :------: | :------: | :------: | :------: |
 | 16/10/2019 | [Minimal To Do](https://github.com/mazharulislame/Minimal To Do) | - | App design | - | ~ hours | :hammer_and_wrench: |
-| 00/10/2019 | [App name](https://github.com/mazharulislame/21-Day-Challenge) | - | App design | - | ~ hours | :point_left::hammer_and_wrench: |
+| 00/10/2019 | [App name](https://github.com/mazharulislame/21-Day-Challenge) | - | App design | - | ~ hours | :point_left: |
