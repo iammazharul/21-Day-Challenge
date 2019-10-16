@@ -6,6 +6,6 @@ According to Stephen Covey, author of The 7 Habits of Highly Effective People, i
 
 Let's build 1 App everyday. It doesn't matter how simple or silly is the app. You have to create an app every day.so let's begin...
 
-| Project Name | link | Preview | Screens | Estimation | Status |
-| ------ | ------ | :------: | :------: | :------: | :------: |
-| [App name](https://github.com/mazharulislame/21-Day-Challenge) | - | App design | - | ~ hours | :point_left::hammer_and_wrench: |
+| Date | Project Name | link | Preview | Screens | Estimation | Status |
+| ------ | ------ | ------ | :------: | :------: | :------: | :------: |
+| 16/10/2019 | [App name](https://github.com/mazharulislame/21-Day-Challenge) | - | App design | - | ~ hours | :point_left::hammer_and_wrench: |
